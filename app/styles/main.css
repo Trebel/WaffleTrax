@@ -1,0 +1,14 @@
+body {
+    background: #FFF7FB;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+    padding-top: 55px;
+}
+
+input {
+    max-width: 50px;
+}
+
+p {
+	max-width: 80px;
+}
